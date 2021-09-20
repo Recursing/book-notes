@@ -1,5 +1,9 @@
 # [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
+Overall fun, lightweight and easy to read. Lots of simple, pratical advice, but doesn't go too deep in any direction.
+
+Mostly liked the way it puts "implicitly obvious" concepts (sort of unknown-knowns for most software developers I know) into clear short chapters.
+
 ## Quotes:
 - Programming is about trying to make the future less painful.
 - > Why didn't anyone ask the users?
@@ -55,3 +59,6 @@ Don't say it can't be done, explain what can be done to salvage the situation.
 - Categorize and prioritize constraints. (woodworking metaphor: cut biggest pieces first --> identify most restrictive constraints first, and fit the others within them)
 - Delight your users
 - How will you know that we've all been successful a month (or a year) after this project is done?
+
+See also:
+ https://blog.codinghorror.com/a-pragmatic-quick-reference/ (interesting that of all the suggested languages, only Objective C became "mainstream")
