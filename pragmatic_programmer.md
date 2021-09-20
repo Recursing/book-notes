@@ -39,7 +39,7 @@ Don't say it can't be done, explain what can be done to salvage the situation.
   - Look for the important requirements, the ones that define the system. Look for areas where you have doubts, and where you see the biggest risks. Prioritize development so that those are the first areas to code.
 - The palest ink is still better than the best memory.
 - Which files get changed most often?
-- If it took a long tome to fix a bug, ask yourself why. [and how to make it easier next time]
+- If it took a long time to fix a bug, ask yourself why. [and how to make it easier next time]
 - *Keep an engineering daybook* [Can use it for standup]
 - **Tell, don't ask**: you shouldn't make decisions based on the internal state of an object and then update that object. [See examples]
 - *An event represents the availability of information.* [Reminds me of bayesian updating]
